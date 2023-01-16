@@ -6,7 +6,7 @@ HDB manages over 2000 carparks, with more than 660k car parks and 7000 equipment
 
  Objective: To leverage on technology (mobile app, crowdsourcing, etc) to create a fun and engaging solution that allows residents to check on HDB car parks, monitor the maintenance/rectification progress if any and take ownership for the well-being of their estate
  
- #Solution
+ # Solution
  
 An interactive easy-to-use Telegram Bot that helps users to gain quick information about Carpark Availability and report any issues/ faults in an individual's HDB and estate. 
 
